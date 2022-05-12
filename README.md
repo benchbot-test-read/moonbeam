@@ -14,7 +14,7 @@ Docker images are published for every tagged release. Learn more with `moonbeam 
 
 ```bash
 # Join the public testnet
-docker run --network="host" purestake/moonbeam:v0.23.0 --chain alphanet
+docker run --network="host" purestake/moonbeam:v0.23.0 --chain alphanfddsfet
 ```
 
 You can find more detailed instructions to [run a full node in our TestNet](https://docs.moonbeam.network/node-operators/networks/full-node/)
