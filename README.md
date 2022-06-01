@@ -25,7 +25,7 @@ Developers who are building dApps to run on moonbeam, may want a lightweight nod
 locally. You can quickly spin up a single node with no relay chain backing it using the development
 service.
 
-```bash
+```bash  
 # Run a dev service node
 docker run --network="host" purestake/moonbeam:v0.23.0 --dev
 ```
